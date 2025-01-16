@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "Nv7igWsfJL/2j/G4Rg5tTNugwu2syHVPRUYa8B9LkPM=",
+  "Source": "NetServer",
+  "BasePath": "_content/NetServer",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

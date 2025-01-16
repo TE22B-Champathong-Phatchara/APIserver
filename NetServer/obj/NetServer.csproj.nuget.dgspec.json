@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\phatchara.champatho\\Documents\\program2\\NetworkServer\\NetServer\\NetServer.csproj": {}
+    "c:\\Users\\phatchara.champatho\\Documents\\program2\\NetworkServer\\NetServer\\NetServer.csproj": {}
   },
   "projects": {
-    "C:\\Users\\phatchara.champatho\\Documents\\program2\\NetworkServer\\NetServer\\NetServer.csproj": {
+    "c:\\Users\\phatchara.champatho\\Documents\\program2\\NetworkServer\\NetServer\\NetServer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\phatchara.champatho\\Documents\\program2\\NetworkServer\\NetServer\\NetServer.csproj",
+        "projectUniqueName": "c:\\Users\\phatchara.champatho\\Documents\\program2\\NetworkServer\\NetServer\\NetServer.csproj",
         "projectName": "NetServer",
-        "projectPath": "C:\\Users\\phatchara.champatho\\Documents\\program2\\NetworkServer\\NetServer\\NetServer.csproj",
+        "projectPath": "c:\\Users\\phatchara.champatho\\Documents\\program2\\NetworkServer\\NetServer\\NetServer.csproj",
         "packagesPath": "C:\\Users\\phatchara.champatho\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\phatchara.champatho\\Documents\\program2\\NetworkServer\\NetServer\\obj\\",
+        "outputPath": "c:\\Users\\phatchara.champatho\\Documents\\program2\\NetworkServer\\NetServer\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
